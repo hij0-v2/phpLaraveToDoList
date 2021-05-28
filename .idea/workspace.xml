@@ -126,6 +126,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
     </include_path>
   </component>
   <component name="ProjectId" id="1t7ig0fhUJOzji9hVD69pMRMRdd" />
@@ -136,10 +137,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zp-blog" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mei\PhpstormProjects\valet\todo\resources\views\" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -158,7 +164,7 @@
       <workItem from="1622126636621" duration="7000" />
       <workItem from="1622127377599" duration="3885000" />
       <workItem from="1622135025094" duration="658000" />
-      <workItem from="1622139352370" duration="5325000" />
+      <workItem from="1622139352370" duration="23635000" />
     </task>
     <servers />
   </component>
@@ -166,13 +172,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="325" key="FileChooserDialogImpl" timestamp="1622139349706">
+    <state x="221" y="325" key="FileChooserDialogImpl" timestamp="1622153618572">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="221" y="325" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1622139349706" />
-    <state x="1274" y="467" key="NewPhpFileDialog" timestamp="1622143071017">
+    <state x="221" y="325" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1622153618572" />
+    <state x="1274" y="467" key="NewPhpFileDialog" timestamp="1622158323786">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1274" y="467" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622143071017" />
+    <state x="1274" y="467" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622158323786" />
   </component>
 </project>
